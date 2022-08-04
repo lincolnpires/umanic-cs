@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Lincoln -- web developer -- <twitter>
+
+# THANKS
+
+    BS Studio, uManic band and supporters
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    Cloudflare, bootstrap
